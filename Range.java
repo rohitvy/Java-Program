@@ -1,6 +1,12 @@
 public class Range
 {
   public static void main(String[] args) {
+
+    double no = 23.4;
+    float num = 2.3f;
+
+    System.out.println("hello ->" + no);
+    System.out.println("hello ->" + num);
     System.out.println("Interger MIN -> "+ Integer.MIN_VALUE);
     System.out.println("Interger MAX -> "+ Integer.MAX_VALUE);
     System.out.println("Float MIN -> "+ Float.MIN_VALUE);
