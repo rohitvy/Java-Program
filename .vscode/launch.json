@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - NumbertoWords",
+      "request": "launch",
+      "mainClass": "NumbertoWords",
+      "projectName": "Java_307e7f84"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - NoToWord",
+      "request": "launch",
+      "mainClass": "NoToWord",
+      "projectName": "Java_307e7f84"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Hello",
       "request": "launch",
       "mainClass": "Hello"
