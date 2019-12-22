@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - LargestPrime",
+      "request": "launch",
+      "mainClass": "LargestPrime",
+      "projectName": "Java_307e7f84"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - NumbertoWords",
       "request": "launch",
       "mainClass": "NumbertoWords",
