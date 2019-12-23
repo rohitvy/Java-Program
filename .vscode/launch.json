@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Temp",
+      "request": "launch",
+      "mainClass": "Temp",
+      "projectName": "Java_307e7f84"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - LargestPrime",
       "request": "launch",
       "mainClass": "LargestPrime",
