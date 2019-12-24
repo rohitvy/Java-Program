@@ -2,6 +2,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - PaintJob",
+      "request": "launch",
+      "mainClass": "PaintJob",
+      "projectName": "Java_307e7f84"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - InputCalculator",
+      "request": "launch",
+      "mainClass": "InputCalculator",
+      "projectName": "Java_307e7f84"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ScannerInput",
+      "request": "launch",
+      "mainClass": "ScannerInput",
+      "projectName": "Java_307e7f84"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Temporary",
+      "request": "launch",
+      "mainClass": "Temporary",
+      "projectName": "Java_307e7f84"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - LargestPrime",
       "request": "launch",
       "mainClass": "LargestPrime",
